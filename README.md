@@ -3,4 +3,4 @@ This is my first Github repository.
 <br>
 Author - Vishwash Gauraw.
 <br>
-Collage - Sir M.V.I.T.
+College - Sir M.V.I.T.
